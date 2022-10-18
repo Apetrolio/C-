@@ -1,0 +1,8 @@
+CONSULTOR DEVOPS SRE (Infra-as-code)observabilidade,analises pos-morten,        
+Migraçoes de INFRAESTRUTURAS para IaC TERRAFORM e ANSIBLE  para  
+docker-compose para execuçoes de manifestos(YAML) seguindo pepilines
+criaçao de arquivos manifestos(YAML)para pipelines , k8s criacao de
+PODs com PVs ,PVCs, e STORAGE CLASS montados em FS,em qualquer provider
+GIT,GIT-FLOW para versionamentos repositorios,GITHUB , PIPELINES com runnerś 
+GITHUBACTION, GITLAB,DROBE-CI,implementaçao de projeto para mensageria
+com APACHE KAFKA,integraçoes de equipes com JIRA e BITBUCKET. 
